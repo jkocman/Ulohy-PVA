@@ -1,0 +1,14 @@
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.AssemblyInfoInputs.cache
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.AssemblyInfo.cs
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.csproj.CoreCompileInputs.cache
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\bin\Debug\net8.0\instalateri.exe
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\bin\Debug\net8.0\instalateri.deps.json
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\bin\Debug\net8.0\instalateri.runtimeconfig.json
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\bin\Debug\net8.0\instalateri.dll
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\bin\Debug\net8.0\instalateri.pdb
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.dll
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\refint\instalateri.dll
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.pdb
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\instalateri.genruntimeconfig.cache
+C:\Users\Kubajda\Desktop\ulohy pva\instalateri\obj\Debug\net8.0\ref\instalateri.dll
