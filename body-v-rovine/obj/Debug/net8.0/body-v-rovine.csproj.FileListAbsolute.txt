@@ -1,0 +1,15 @@
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\bin\Debug\net8.0\body-v-rovine.exe
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\bin\Debug\net8.0\body-v-rovine.deps.json
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\bin\Debug\net8.0\body-v-rovine.runtimeconfig.json
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\bin\Debug\net8.0\body-v-rovine.dll
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\bin\Debug\net8.0\body-v-rovine.pdb
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.AssemblyInfoInputs.cache
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.AssemblyInfo.cs
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.csproj.CoreCompileInputs.cache
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.sourcelink.json
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.dll
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\refint\body-v-rovine.dll
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.pdb
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\body-v-rovine.genruntimeconfig.cache
+C:\Users\Kubajda\Desktop\ulohy pva\body-v-rovine\obj\Debug\net8.0\ref\body-v-rovine.dll
