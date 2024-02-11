@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ciselne-palindromy/1.0.0": {
+        "runtime": {
+          "ciselne-palindromy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ciselne-palindromy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

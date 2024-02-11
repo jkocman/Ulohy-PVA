@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj": {}
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj": {
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj",
-        "projectName": "body-v-rovine",
-        "projectPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj",
+        "projectUniqueName": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj",
+        "projectName": "ciselne-palindromy",
+        "projectPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj",
         "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\obj\\",
+        "outputPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",

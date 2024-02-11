@@ -1,0 +1,15 @@
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.AssemblyInfo.cs
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.sourcelink.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.exe
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.deps.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.runtimeconfig.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\refint\ciselne-palindromy.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.genruntimeconfig.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ref\ciselne-palindromy.dll
