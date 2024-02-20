@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\body-v-rovine\\body-v-rovine.csproj": {}
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\body-v-rovine\\body-v-rovine.csproj": {
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\body-v-rovine\\body-v-rovine.csproj",
+        "projectUniqueName": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj",
         "projectName": "body-v-rovine",
-        "projectPath": "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\body-v-rovine\\body-v-rovine.csproj",
-        "packagesPath": "C:\\Users\\Kubajda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\body-v-rovine\\obj\\",
+        "projectPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\body-v-rovine.csproj",
+        "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\body-v-rovine\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kubajda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

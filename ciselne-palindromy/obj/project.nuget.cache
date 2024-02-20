@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "d63JzjDwTcgyS/5HTaEpfYj9FdTFoIQVLNyVmDaRFv80yHyiczWLv2NP5w3KuBq9UWUsNGTgQJ7CWEIrYfafNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\ciselne-palindromy\\ciselne-palindromy.csproj",
+=======
+  "dgSpecHash": "bfaB58/mJ0jbmCWcDVGpQpWP/pXS6EYMGaOYKUMtCETOIsEwB5Zlm8MijWapuEOBH4c0QdcwPxqVo8Em7qWDww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj",
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734
   "expectedPackageFiles": [],
   "logs": []
 }

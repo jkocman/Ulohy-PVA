@@ -13,6 +13,7 @@ C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\re
 C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.pdb
 C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.genruntimeconfig.cache
 C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\obj\Debug\net8.0\ref\ciselne-palindromy.dll
+<<<<<<< HEAD
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.exe
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.deps.json
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\bin\Debug\net8.0\ciselne-palindromy.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\obj\Debug\net8.0\refint\ci
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.pdb
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\obj\Debug\net8.0\ciselne-palindromy.genruntimeconfig.cache
 C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\obj\Debug\net8.0\ref\ciselne-palindromy.dll
+=======
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734

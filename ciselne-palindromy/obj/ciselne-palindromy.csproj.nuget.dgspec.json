@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Kubajda\\Desktop\\ulohy pva\\ciselne-palindromy\\ciselne-palindromy.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kubajda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj",
+        "projectName": "ciselne-palindromy",
+        "projectPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\ciselne-palindromy.csproj",
+        "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petr\\Desktop\\ulohy pva\\Ulohy-PVA\\ciselne-palindromy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +51,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+=======
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734
         }
       },
       "frameworks": {
@@ -60,7 +80,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734
         }
       }
     }

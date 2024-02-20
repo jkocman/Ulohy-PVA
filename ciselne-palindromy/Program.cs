@@ -28,7 +28,7 @@ public class Program
     {
         try
         {
-            Console.Write("Zadejte číslo: ");
+            Console.Write("číslo: ");
             int number = Convert.ToInt32(Console.ReadLine());
             Console.Write("Zadejte číselnou soustavu. 2 pro binární soustavu, 10 pro decimální: ");
             int baseValue = Convert.ToInt32(Console.ReadLine());
@@ -45,7 +45,7 @@ public class Program
         }
         catch (FormatException)
         {
-            Console.WriteLine("neplatne");
+            Console.WriteLine("Neplatný input. Prosím zadávejte pouze čísla.");
         }
     }
 }

@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ciselne_palindromy
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Kubajda\Desktop\ulohy pva\ciselne-palindromy\
+=======
+build_property.ProjectDir = C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ciselne-palindromy\
+>>>>>>> 3ab85fbea5a5546e594f90265a6aadc473369734
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
