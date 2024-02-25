@@ -1,0 +1,15 @@
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\bin\Debug\net8.0\posloupnost.exe
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\bin\Debug\net8.0\posloupnost.deps.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\bin\Debug\net8.0\posloupnost.runtimeconfig.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\bin\Debug\net8.0\posloupnost.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\bin\Debug\net8.0\posloupnost.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.AssemblyInfo.cs
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.sourcelink.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\refint\posloupnost.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\posloupnost.genruntimeconfig.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\posloupnost\obj\Debug\net8.0\ref\posloupnost.dll
