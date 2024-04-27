@@ -1,0 +1,13 @@
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.exe
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.deps.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.runtimeconfig.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.runtimeconfig.dev.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\bin\Debug\netcoreapp3.1\ridici-vez.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.csprojAssemblyReference.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.AssemblyInfo.cs
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\ridici-vez\ridici-vez\obj\Debug\netcoreapp3.1\ridici-vez.genruntimeconfig.cache
