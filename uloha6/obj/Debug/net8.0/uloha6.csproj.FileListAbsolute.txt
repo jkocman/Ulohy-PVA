@@ -1,0 +1,15 @@
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\bin\Debug\net8.0\uloha6.exe
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\bin\Debug\net8.0\uloha6.deps.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\bin\Debug\net8.0\uloha6.runtimeconfig.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\bin\Debug\net8.0\uloha6.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\bin\Debug\net8.0\uloha6.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.AssemblyInfo.cs
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.sourcelink.json
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\refint\uloha6.dll
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.pdb
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\uloha6.genruntimeconfig.cache
+C:\Users\Petr\Desktop\ulohy pva\Ulohy-PVA\uloha6\obj\Debug\net8.0\ref\uloha6.dll
