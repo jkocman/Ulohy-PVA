@@ -1,0 +1,14 @@
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.AssemblyInfoInputs.cache
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.AssemblyInfo.cs
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.csproj.CoreCompileInputs.cache
+C:\Users\jkocm\source\repos\uloha7\uloha7\bin\Debug\net8.0\uloha7.exe
+C:\Users\jkocm\source\repos\uloha7\uloha7\bin\Debug\net8.0\uloha7.deps.json
+C:\Users\jkocm\source\repos\uloha7\uloha7\bin\Debug\net8.0\uloha7.runtimeconfig.json
+C:\Users\jkocm\source\repos\uloha7\uloha7\bin\Debug\net8.0\uloha7.dll
+C:\Users\jkocm\source\repos\uloha7\uloha7\bin\Debug\net8.0\uloha7.pdb
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.dll
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\refint\uloha7.dll
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.pdb
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\uloha7.genruntimeconfig.cache
+C:\Users\jkocm\source\repos\uloha7\uloha7\obj\Debug\net8.0\ref\uloha7.dll
